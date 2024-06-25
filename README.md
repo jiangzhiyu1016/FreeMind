@@ -61,7 +61,7 @@ We welcome all developers and volunteers who share this vision to join us in adv
 
 如果您有任何问题或建议，请通过以下方式联系我们：
 
-- Email: [contact@freemindproject.org](mailto:contact@freemindproject.org)
-- GitHub Issues: [FreeMind Issues](https://github.com/your-repo/issues)
+- Email: [1146094743@qq.com](1146094743@qq.com)
+- GitHub Issues: [FreeMind Issues][(https://github.com/your-repo/issues)](https://github.com/jiangzhiyu1016/FreeMind/issues)
 
 一起为实现人类自由而努力！
